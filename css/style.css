@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css2?family=Lora+Roboto);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/video-container.css");
+@import url("components/testimonial-carousel.css");
+@import url("components/typeform-container.css");
+@import url("components/banner-video.css");
+@import url("components/cards.css");
+@import url("components/hover-button.css");
+
+body {
+font-family: "Lora", sans-serif;
+font-size: 18px;
+margin: 0; 
+background-color: rgb(240,240,240)
+
+}
+h1,h2,h3 {
+    font-family: "Roboto", sans-serif;
+   
+}
+
+a {
+    text-decoration: none;
+    
+
+}
+
+
+
+
+

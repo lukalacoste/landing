@@ -1,0 +1,19 @@
+/* Style the banner video container */
+.banner-video {
+    width: 100%;
+    height: 100vh; /* 100% of the viewport height */
+    overflow: hidden;
+    position: relative;
+}
+
+/* Style the video for full width */
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Maintain aspect ratio and cover entire container */
+}
+
+/* Hide video controls */
+video::-webkit-media-controls {
+    display: none;
+}
